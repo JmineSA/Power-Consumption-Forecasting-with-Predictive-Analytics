@@ -1,80 +1,80 @@
 ⚡ Power Consumption Forecasting – Tetouan City Zone 1
-🚀 Exciting Update: Now with Live Demo!
-Experience the model in action: Industrial Power Optimizer Live Demo
+🚀 Now with Live Demo!
+👉 Industrial Power Optimizer – Live Demo
 
 🎯 Objective
-Empower energy stakeholders with data-driven insights for smarter power demand forecasting and proactive energy management in Zone 1 of Tetouan City.
+Provide energy stakeholders with data-driven insights for smarter power demand forecasting and proactive energy management in Tetouan City Zone 1.
 
 🔥 Key Highlights
-Live Prediction Interface: Interactive dashboard for real-time forecasting
+Live Prediction Interface — Interactive dashboard for real-time forecasting
 
-Model Used: Random Forest Regressor
+Model Used — Random Forest Regressor
 
-Performance: R² score of 0.975 (explains 97.5% of demand variability)
+Performance — R² Score: 0.975 (explains 97.5% of demand variability)
 
 💼 Business Value
-Accurate power demand forecasting
+✅ Accurate power demand forecasting
 
-Smarter resource planning and load management
+✅ Smarter resource planning and load management
 
-Strategic energy provision and operational efficiency
+✅ Improved operational efficiency and strategic energy provision
 
-🖥️ Demo Features
-Real-time prediction visualization
+🖥️ Live Demo Features
+📊 Real-time prediction visualization
 
-Adjustable input parameters (weather, time)
+🎛️ Adjustable input parameters (weather, time)
 
-Historical vs Predicted comparison
+🔁 Historical vs. Predicted comparison
 
-Downloadable forecasts for operational planning
+📥 Downloadable forecasts for operational planning
 
-📊 Data Overview
+📈 Data Overview
 Source: UCI Machine Learning Repository
 
 Frequency: Data collected every 10 minutes
 
-Features:
+Features Included:
 
-Environmental: Temperature, Humidity, Wind Speed, Diffuse Flows
+Environmental Factors — Temperature, Humidity, Wind Speed, Diffuse Flows
 
-Power Consumption: Zone 1 (Target), Zone 2 & Zone 3 (Reference)
+Power Consumption Data — Zone 1 (Target), Zones 2 & 3 (Reference)
 
 💡 Key Business Insights
-Stable High Demand in Zone 1: Indicates critical operational usage
+Stable High Demand in Zone 1 — Indicates critical operational usage
 
-Seasonality & Weather Impact: Usage correlates with humidity, diffuse flows, and wind speed
+Seasonality & Weather Impact — Usage correlates with humidity, diffuse flows, and wind speed
 
-Cross-Zone Influence: Power usage in Zones 2 & 3 strongly relates to Zone 1 demand
+Cross-Zone Influence — Demand in Zones 2 & 3 strongly relates to Zone 1 consumption
 
 ✅ Recommendations
-Test different operational scenarios with the live demo
+🛠️ Use the live demo to simulate various operational scenarios
 
-Deploy the model in daily/weekly operations
+📈 Deploy forecasts in daily/weekly operations
 
-Integrate forecasts with monitoring dashboards
+📊 Integrate with real-time monitoring dashboards
 
-Explore advanced models like XGBoost for further optimization
+🧩 Explore advanced models (e.g., XGBoost) for further optimization
 
-Maintain the model with updated data
+🔄 Regularly update the model with new data
 
-Consider city-wide scaling for broader impact
+🌍 Scale the solution city-wide for broader energy planning
 
 🚀 Business Impact Summary
-Improved operational efficiency
+⚡ Enhanced operational efficiency
 
-Cost reduction through smarter planning
+💰 Reduced costs through smarter planning
 
-Supports Tetouan City’s energy sustainability goals
+🌱 Supports Tetouan City’s sustainability goals
 
-Instant access to predictive insights via the live demo
+🚀 Instant access to predictive insights via the live demo
 
 📂 Project Resources
 🔗 Live Demo App
 
-📑 Detailed project report (in this repository)
+📑 Detailed project report
 
 📓 Model training notebooks
 
-🗂️ Dataset documentation
+📂 Dataset documentation
 
-👉 Try the demo now and experience predictive analytics in action!
+👨‍💻 Try the demo now and see predictive analytics in action!
