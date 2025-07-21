@@ -1,38 +1,80 @@
-⚡ Industrial Power Optimizer: Tetouan City Zone 1
-🌐 Live Demo: https://img.shields.io/badge/%F0%9F%A4%97%2520Hugging%2520Face-Live%2520Demo-blue
-
-*A machine learning-powered tool for forecasting power demand with 97.5% accuracy*
+⚡ Power Consumption Forecasting – Tetouan City Zone 1
+🚀 Exciting Update: Now with Live Demo!
+Experience the model in action: Industrial Power Optimizer Live Demo
 
 🎯 Objective
-Empower energy stakeholders with AI-driven forecasts to optimize power distribution and reduce operational costs in Tetouan City’s Zone 1.
+Empower energy stakeholders with data-driven insights for smarter power demand forecasting and proactive energy management in Zone 1 of Tetouan City.
 
-✨ Key Features
-📊 97.5% Accurate Predictions (R² score: 0.975)
+🔥 Key Highlights
+Live Prediction Interface: Interactive dashboard for real-time forecasting
 
-🌦️ Weather-Integrated Model (humidity, wind speed, diffuse flows)
+Model Used: Random Forest Regressor
 
-⏱️ 10-Minute Granularity for high-resolution planning
+Performance: R² score of 0.975 (explains 97.5% of demand variability)
 
-🖥️ Interactive Dashboard for real-time scenario testing
+💼 Business Value
+Accurate power demand forecasting
 
-🛠️ How It Works
-📥 Input: Environmental data + historical power usage
+Smarter resource planning and load management
 
-🤖 Model: Random Forest Regressor processes the data
+Strategic energy provision and operational efficiency
 
-📈 Output: Forecasted power demand for Zone 1
+🖥️ Demo Features
+Real-time prediction visualization
 
-▶️ Try the Live Demo!
+Adjustable input parameters (weather, time)
 
-🔍 Insights Discovered
-💡 Zone 1 Demand is highly stable but weather-sensitive
+Historical vs Predicted comparison
 
-🌧️ Humidity is the top environmental driver (not temperature!)
+Downloadable forecasts for operational planning
 
-🔗 Zones 2 & 3 consumption patterns help predict Zone 1 demand
+📊 Data Overview
+Source: UCI Machine Learning Repository
 
-🚀 Business Impact
-Benefit	Emoji	Description
-Cost Reduction	💰	Optimize energy purchases
-Load Balancing	⚖️	Prevent grid overloads
-Sustainability	🌱	Reduce wasted energy
+Frequency: Data collected every 10 minutes
+
+Features:
+
+Environmental: Temperature, Humidity, Wind Speed, Diffuse Flows
+
+Power Consumption: Zone 1 (Target), Zone 2 & Zone 3 (Reference)
+
+💡 Key Business Insights
+Stable High Demand in Zone 1: Indicates critical operational usage
+
+Seasonality & Weather Impact: Usage correlates with humidity, diffuse flows, and wind speed
+
+Cross-Zone Influence: Power usage in Zones 2 & 3 strongly relates to Zone 1 demand
+
+✅ Recommendations
+Test different operational scenarios with the live demo
+
+Deploy the model in daily/weekly operations
+
+Integrate forecasts with monitoring dashboards
+
+Explore advanced models like XGBoost for further optimization
+
+Maintain the model with updated data
+
+Consider city-wide scaling for broader impact
+
+🚀 Business Impact Summary
+Improved operational efficiency
+
+Cost reduction through smarter planning
+
+Supports Tetouan City’s energy sustainability goals
+
+Instant access to predictive insights via the live demo
+
+📂 Project Resources
+🔗 Live Demo App
+
+📑 Detailed project report (in this repository)
+
+📓 Model training notebooks
+
+🗂️ Dataset documentation
+
+👉 Try the demo now and experience predictive analytics in action!
