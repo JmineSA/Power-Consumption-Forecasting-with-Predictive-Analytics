@@ -1,7 +1,7 @@
 # ⚡ Power Consumption Forecasting – Tetouan City Zone 1  
 
 **🚀 Exciting Update: Now with Live Demo!**  
-[👉 Industrial Power Optimizer – Live Demo](#)  
+[👉 Industrial Power Optimizer – Live Demo](https://huggingface.co/spaces/jmine/industrial-power-optimizer)  
 
 ---
 
@@ -38,7 +38,7 @@ Empower energy stakeholders with **data-driven insights** for smarter power dema
 
 ## 📈 Data Overview  
 
-- **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/)  
+- **Source:** [UCI Machine Learning Repository – Power Consumption of Tetouan City Dataset](https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city)  
 - **Frequency:** Data collected every **10 minutes**  
 
 **Features:**  
@@ -57,7 +57,7 @@ Empower energy stakeholders with **data-driven insights** for smarter power dema
 
 ## ✅ Recommendations  
 
-- Test various operational scenarios with the **live demo**  
+- Test various operational scenarios with the **[live demo](https://huggingface.co/spaces/jmine/industrial-power-optimizer)**  
 - Deploy the model in **daily and weekly operations**  
 - Integrate forecasts into **real-time monitoring dashboards**  
 - Explore **advanced ensemble models** (e.g., XGBoost) for further optimization  
@@ -77,7 +77,7 @@ Empower energy stakeholders with **data-driven insights** for smarter power dema
 
 ## 📂 Project Resources  
 
-- [🔗 Live Demo App](#)  
+- [🔗 Live Demo App – Hugging Face Space](https://huggingface.co/spaces/jmine/industrial-power-optimizer)  
 - 📑 Detailed project report (included in this repository)  
 - 📓 Model training notebooks  
 - 📂 Dataset documentation  
