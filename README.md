@@ -15,7 +15,7 @@ Empower energy stakeholders with **data-driven insights** for smarter power dema
 
 - **Live Prediction Interface:** Interactive dashboard for real-time forecasting  
 - **Model Used:** Random Forest Regressor  
-- **Performance:** **R² Score = 0.758** (Explains **78.5%** of demand variability)  
+- **Performance:** **R² Score = 0.758** (Explains **75.5=8%** of demand variability)  
 
 ---
 
